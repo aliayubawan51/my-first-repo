@@ -1,1 +1,1 @@
-print("Hello from Jenkins Python")
+print("Hello from CI/CD pipeline")
